@@ -1,3 +1,5 @@
+# 🚨This project has moved to https://github.com/fomantic/Fomantic-UI-SASS
+
 # Fomantic UI for Sass
 
 `fomantic-ui-sass` is an Sass-powered version of [Fomantic UI](https://github.com/fomantic/Fomantic-UI) and ready to drop into Rails, Compass, or Sprockets.
